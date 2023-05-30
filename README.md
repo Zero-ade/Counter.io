@@ -11,7 +11,9 @@ This is my first project with Javascript language, realized 2023.
 Project created with:
 
 HTML
+
 CSS
+
 JavaScript
 
 # 📃 License
