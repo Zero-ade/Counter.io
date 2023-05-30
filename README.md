@@ -11,9 +11,3 @@ Project created with:
 HTML
 CSS
 JavaScript
-
-# Installation
-To run this project, you have two choiches:
-Click this link for watch website on Netlify:
-
-
