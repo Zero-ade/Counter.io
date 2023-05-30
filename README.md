@@ -8,6 +8,7 @@ This is my first project with Javascript language, realized 2023.
 
 # Technologies
 Project created with:
+
 HTML
 CSS
 JavaScript
